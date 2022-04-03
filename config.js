@@ -72,7 +72,7 @@ ig: senpai_chan_gemoy`
 global.wm = 'Zifabotz－ＭＤ'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
-global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
+global.media = 'https://telegra.ph/file/48bb2a5d4a21d31edd9a7.jpg'
 global.instagram = 'https://instagram.com/zalfapontianak'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
